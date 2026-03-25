@@ -35,7 +35,7 @@ export default function Contact() {
         <div className="max-w-7xl mx-auto">
           <h1 className="text-5xl sm:text-6xl font-bold text-white mb-6">Get in Touch</h1>
           <p className="text-xl text-slate-300 max-w-2xl">
-            Have a project in mind? We'd love to hear from you. Contact us today to discuss how we can help.
+            Have a project in mind? We&apos;d love to hear from you. Contact us today to discuss how we can help.
           </p>
         </div>
       </section>
@@ -174,7 +174,7 @@ export default function Contact() {
 
                 {submitted && (
                   <div className="p-4 rounded-lg bg-primary/20 border border-primary text-primary text-center">
-                    Thank you! We'll get back to you soon.
+                    Thank you! We&apos;ll get back to you soon.
                   </div>
                 )}
               </form>
@@ -192,7 +192,7 @@ export default function Contact() {
               <div className="text-center">
                 <span className="text-6xl mb-4">📍</span>
                 <p className="text-slate-300 mt-4">San Francisco, CA</p>
-                <p className="text-slate-400 text-sm mt-2">Visit us for a coffee and let's discuss your project!</p>
+                <p className="text-slate-400 text-sm mt-2">Visit us for a coffee and let&apos;s discuss your project!</p>
               </div>
             </div>
           </div>

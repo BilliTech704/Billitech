@@ -6,7 +6,7 @@ export default function About() {
         <div className="max-w-7xl mx-auto">
           <h1 className="text-5xl sm:text-6xl font-bold text-white mb-6">About BilliTech</h1>
           <p className="text-xl text-slate-300 max-w-2xl">
-            We're a team of passionate digital innovators dedicated to transforming businesses through technology.
+            We&apos;re a team of passionate digital innovators dedicated to transforming businesses through technology.
           </p>
         </div>
       </section>
@@ -21,10 +21,10 @@ export default function About() {
                 Founded in 2014, BilliTech started with a simple mission: to help businesses succeed in the digital world. What began as a small team of developers has grown into a comprehensive digital agency serving clients across industries.
               </p>
               <p className="text-slate-300 mb-4 leading-relaxed">
-                Over the years, we've worked with startups, scale-ups, and established enterprises to create digital solutions that drive real business impact. Our experience spans web development, branding, social media marketing, and digital transformation.
+                Over the years, we&apos;ve worked with startups, scale-ups, and established enterprises to create digital solutions that drive real business impact. Our experience spans web development, branding, social media marketing, and digital transformation.
               </p>
               <p className="text-slate-300 leading-relaxed">
-                Today, we pride ourselves on staying at the forefront of technology and design trends, always with our clients' success at the heart of everything we do.
+                Today, we pride ourselves on staying at the forefront of technology and design trends, always with our clients&apos; success at the heart of everything we do.
               </p>
             </div>
             <div className="bg-gradient-to-br from-primary to-secondary rounded-lg p-1 glow-effect">

@@ -100,7 +100,7 @@ export default function Home() {
             <div>
               <h2 className="text-4xl font-bold text-white mb-6">Why Choose BilliTech?</h2>
               <p className="text-slate-300 mb-4">
-                With years of experience in digital innovation, we understand what it takes to succeed in today's competitive landscape.
+                With years of experience in digital innovation, we understand what it takes to succeed in today&apos;s competitive landscape.
               </p>
               <ul className="space-y-3 mb-8">
                 <li className="flex items-center text-slate-300">
@@ -164,7 +164,7 @@ export default function Home() {
           <div className="bg-gradient-to-r from-primary/20 to-secondary/20 border border-primary/50 rounded-lg p-12 text-center">
             <h2 className="text-4xl font-bold text-white mb-6">Ready to Get Started?</h2>
             <p className="text-slate-300 mb-8 text-lg">
-              Let's work together to bring your digital vision to life.
+              Let&apos;s work together to bring your digital vision to life.
             </p>
             <Link
               href="/contact"

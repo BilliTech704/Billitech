@@ -22,12 +22,12 @@ export default function Services() {
     },
     {
       id: 3,
-      icon: '📱',
-      title: 'Social Media Management',
-      description: 'Grow your online presence with strategic content management.',
+      icon: "📱",
+      title: "Social Media Management",
+      description: "Grow your online presence with strategic content management.",
       details:
-        'We manage your social media presence with strategic content creation, community engagement, and data-driven insights to help you reach and engage your target audience.',
-      features: ['Content Creation', 'Community Management', 'Analytics & Reports', 'Campaign Strategy'],
+        "We manage your social media presence with strategic content creation, community engagement, and data-driven insights to help you reach and engage your target audience.",
+      features: ["Content Creation", "Community Management", "Analytics & Reports", "Campaign Strategy"],
     },
     {
       id: 4,
@@ -105,7 +105,7 @@ export default function Services() {
           <div className="bg-gradient-to-r from-primary/20 to-secondary/20 border border-primary/50 rounded-lg p-12 text-center">
             <h2 className="text-4xl font-bold text-white mb-6">Ready to Transform Your Business?</h2>
             <p className="text-slate-300 mb-8 text-lg">
-              Let's discuss how our services can help you achieve your business goals.
+              Let&apos;s discuss how our services can help you achieve your business goals.
             </p>
             <a
               href="/contact"
